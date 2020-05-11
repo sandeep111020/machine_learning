@@ -1,0 +1,9 @@
+Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms. It’s built upon some of the technology you might already be familiar with, like NumPy, pandas, and Matplotlib!
+
+The functionality that scikit-learn provides include:
+
+Regression, including Linear and Logistic Regression
+Classification, including K-Nearest Neighbors
+Clustering, including K-Means and K-Means++
+Model selection
+Preprocessing, including Min-Max Normalization
